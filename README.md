@@ -23,7 +23,7 @@ El repositoria se a dividido en varias ramas,las cuales son:
 ------------------------------------------------------
 # Lenguajes utilizados
 ## C++
-![logo C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educationmesd.com%2Fcourses%2Fcourse-on-c%2F&psig=AOvVaw1zy_Mrg7VQp17staX8Ozul&ust=1634173255526000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi5mvWXxvMCFQAAAAAdAAAAABAJ)
+![logo C++](https://www.educationmesd.com/wp-content/uploads/2021/01/C.png)
 
 ## C
-![logo C](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-byoxw&psig=AOvVaw3zkL4pIrhBOj04dCjd2ARp&ust=1634173169448000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOjKvMyXxvMCFQAAAAAdAAAAABAD)
+![logo C](https://www.freepng.es/png-v4fu28/download.html)
