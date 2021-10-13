@@ -1,5 +1,4 @@
 # Proyectos Primer Bimestre
-# Proyectos Primer Bimestre
  
 ## Introduccion 
 
@@ -21,3 +20,10 @@ El repositoria se a dividido en varias ramas,las cuales son:
 3. Ordenamiento
 
 4. ProyectosRapidos
+------------------------------------------------------
+# Lenguajes utilizados
+## C++
+![logo C++](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educationmesd.com%2Fcourses%2Fcourse-on-c%2F&psig=AOvVaw1zy_Mrg7VQp17staX8Ozul&ust=1634173255526000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi5mvWXxvMCFQAAAAAdAAAAABAJ)
+
+## C
+![logo C](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fpng-byoxw&psig=AOvVaw3zkL4pIrhBOj04dCjd2ARp&ust=1634173169448000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOjKvMyXxvMCFQAAAAAdAAAAABAD)
