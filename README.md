@@ -3,7 +3,7 @@
  
 ## Introduccion 
 
- Este repositorio  es una miscelanea de programas,ejercicios y resolucion de problemas que fueron realizados en el  ` primer semestre ` de la carrera de Desarrollo de software de la **EPN.**
+ Este repositorio  es una miscelanea de programas,ejercicios y resolucion de problemas que fueron realizados en el  ` primer semestre ` de la carrera de Desarrollo de software de la **EPN.**ff
 
 > (English version): This repository is a miscellany of programs, exercises, and program troubleshooting. This algorithm was being carried out in the first semester of the Software Development career at EPN.
 
